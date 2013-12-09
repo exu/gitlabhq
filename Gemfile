@@ -74,6 +74,7 @@ gem "seed-fu"
 # Markdown to HTML
 gem "redcarpet",     "~> 2.2.2"
 gem "github-markup", "~> 0.7.4", require: 'github/markup'
+gem "org-ruby"
 
 # Asciidoc to HTML
 gem  "asciidoctor"
